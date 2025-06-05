@@ -27,7 +27,7 @@ I am using this repository to track my learning progress and experiment with my 
 | JavaScript Fundamentals           | ✅ Done |
 | DOM Manipulation & Events         | ✅ Done |
 | Advanced Functions                | ✅ Done |
-| Object-Oriented Programming (OOP) | 🔄 In Progress |
+| Object-Oriented Programming (OOP) | ✅ Done |
 | Asynchronous JavaScript           | ⬜ Upcoming |
 | Final Projects                    | ⬜ Upcoming |
 
